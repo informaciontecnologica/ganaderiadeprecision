@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 abr. 2019, 09:31:13
+    Author     : daniel
+*/
+p{
+    font-family: 'Slabo 27px', serif;
+    font-size: 22px;
+}
+.carousel-cell {
+  width: 100%;
+  
+  margin-right: 10px;
+  /*background: #8C8;*/
+  border-radius: 5px;
+/*  counter-increment: carousel-cell;*/
+}
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+/*  content: counter(carousel-cell);*/
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+.main-carousel{
+    width: 50%;
+    float: right;     
+}
+img{
+    width: 100%;
+  
+   
+    
+}
+.pie{
+ height: 250px;
+ padding-top: 40px;
+ background-color:  #666666;
+ color:  #ffffff;
+ margin-top: 5px;
+     
+ 
+}
+
+.encabezado_encabezado{
+    margin-top:  auto;
+}
+.seccion_imagen {
+  
+   
+}
+.seccion_imagen img{
+   height: 350px;
+   margin-top: 20px;
+}
+.seccion_desarrollo{
+    margin-top: 3px;
+    padding: 4px;
+    height: 450px;
+}
+.encabezado{
+    padding-top: 50px; 
+    margin: auto;/*esto fue lo que se agregó*/
+}
+.encabezado h3{
+    text-align: center;
+    color:  #007fff;
+      font-family: 'Slabo 27px', serif;
+    font-size: 25px;
+}
+.encabezado h4{
+    text-align: center;
+    color:   #0f9ae9;
+      font-family: 'Slabo 27px', serif;
+    font-size: 24px;
+}
+.encabezado p{
+    
+    line-height : 2;
+    width: 60%;
+    margin: auto;/*esto fue lo que se agregó*/
+    
+}
