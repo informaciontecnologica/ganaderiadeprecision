@@ -13,7 +13,6 @@ p{
 }
 .carousel-cell {
   width: 100%;
-  
   margin-right: 10px;
   /*background: #8C8;*/
   border-radius: 5px;
@@ -29,15 +28,10 @@ p{
   color: white;
 }
 .main-carousel{
-    width: 50%;
-    float: right;     
+1234
+
 }
-img{
-    width: 100%;
-  
-   
-    
-}
+
 .pie{
  height: 250px;
  padding-top: 40px;
@@ -51,9 +45,13 @@ img{
 .encabezado_encabezado{
     margin-top:  auto;
 }
-.seccion_imagen {
-  
+.contacto {
+    background-color:  #333333 ;
+    
    
+}
+.contacto p{
+    color:  #ffffff;
 }
 .seccion_imagen img{
    height: 350px;
@@ -81,9 +79,9 @@ img{
     font-size: 24px;
 }
 .encabezado p{
-    
+     font-size: 21px;
     line-height : 2;
-    width: 60%;
+    text-align: center;
     margin: auto;/*esto fue lo que se agregó*/
     
-}
+}kklklkl
