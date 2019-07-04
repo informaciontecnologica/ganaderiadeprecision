@@ -39,17 +39,17 @@ p{
 .seccion_productos{
     font-family: 'Slabo 27px', serif;
     font-size: 16px;
-     height: 250px;
+    height: 250px;
     padding-top: 30px;
     background-color:  #666666;
     color:  #ffffff;
-    margin-top: 5px;
+    margin-top: 53px;
     padding-left: 10px;
-    margin: 5px;
+    /*margin: 5px;*/
 }
 .seccion_productos p{
     padding-left: 10px;
-     font-family: 'Slabo 27px', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 14px;
 }
 .box_propuesta{
@@ -58,22 +58,22 @@ p{
     padding-top: 30px;
     margin-left: 8px;
     background-color:   #95cfe6;
-   
+
 }
 .box_propuesta p{
-     font-family: 'Slabo 27px', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 16px;
 }
 
 .box_propuesta  li{
     padding-bottom: 12px;
-     padding-left: 20%;
+    padding-left: 20%;
 }
 .box_propuesta img{
     float: right;
     width: 350px;
-    
-    
+
+
 }
 
 .box_propuesta_menu{
@@ -85,7 +85,7 @@ p{
 }
 .box_propuesta_menu li{
     padding-bottom: 12px;
-      padding-left: 20%;
+    padding-left: 20%;
 }
 .box_propuesta_menu img{
     float: right;
@@ -96,8 +96,8 @@ p{
     font-size: 24px;
     color:  #007fff;
     line-height: 45px;
-    
-  
+
+
 }
 nav{
     font-family: 'Slabo 27px', serif;
@@ -137,7 +137,7 @@ nav li{
 .contacto {
     background-color:  #333333 ;
     margin-bottom: 10px;
-    max-height: 800px;
+    /*    max-height: 800px;*/
     min-height: 700px;
 
 
@@ -153,7 +153,7 @@ nav li{
     margin-top: 20px;
 }
 .seccion_desarrollo{
-    margin-top: 3px;
+    margin-top: 53px;
     padding: 4px;
     /*    height: 500px;*/
     min-height: 600px;
@@ -165,7 +165,7 @@ nav li{
 
 }
 .encabezado{
-    padding-top: 50px; 
+    padding-top: 1px; 
     margin: auto;/*esto fue lo que se agregó*/
 }
 .encabezado h3{
